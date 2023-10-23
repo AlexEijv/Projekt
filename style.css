@@ -7,5 +7,25 @@ body{
 h1{
     text-align: center;
     text-decoration: underline;
-    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+    font-family: 'Lobster Two', sans-serif;
+    font-size: 40px;
+    
+}
+
+    main{
+        background-color: black;
+        opacity: 50%;
+        display: flex;
+        flex-direction: column;
+        border-radius: 25%;
+        margin-left: 300px;
+        margin-right: 300px;
+        align-items: center;
+    }
+
+img
+
+p{
+    color: white;
+    text-align: center;
 }
