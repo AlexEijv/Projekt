@@ -1,0 +1,11 @@
+body{
+    background-image: url(image.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+h1{
+    text-align: center;
+    text-decoration: underline;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
