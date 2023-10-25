@@ -13,19 +13,51 @@ h1{
 }
 
     main{
-        background-color: black;
-        opacity: 50%;
+        background-color: rgba(0, 0, 0, 0.7);
         display: flex;
         flex-direction: column;
-        border-radius: 25%;
+        border-radius: 10%;
         margin-left: 300px;
         margin-right: 300px;
         align-items: center;
+        
     }
 
-img
+img{
+    opacity: 100%;
+}
 
 p{
     color: white;
     text-align: center;
+}
+
+h2{
+    color: white;
+    background-color: rgb(255, 0, 0, 0.1);
+    border-radius: 15px;
+    font-size: smaller;
+    margin-right: 700px;
+}
+
+h3{
+    color: white;
+    border-radius: 15px;
+    font-size: large;
+    margin-right: 700px;
+}
+
+ul{
+    color: white;
+}
+
+ol{
+    color:white;
+}
+
+
+h4{
+    color: white;
+    text-align: right;
+    
 }
