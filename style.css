@@ -37,14 +37,15 @@ h2{
     background-color: rgb(255, 0, 0, 0.1);
     border-radius: 15px;
     font-size: smaller;
-    margin-right: 700px;
+    display: inline;
+    margin-right: 190px;
+    text-align: left;
 }
 
 h3{
     color: white;
     border-radius: 15px;
     font-size: large;
-    margin-right: 700px;
 }
 
 ul{
@@ -57,7 +58,14 @@ ol{
 
 
 h4{
-    color: white;
-    text-align: right;
-    
+    color: white;    
+}
+
+article{
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+
+.vänster{
+    padding-left: 50px;
 }
